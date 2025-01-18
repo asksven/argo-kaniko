@@ -26,7 +26,7 @@ spec:
         arguments:
           parameters:
           - name: app_repo
-            value: git://github.com:asksven/argo-kaniko.git
+            value: git://github.com/asksven/argo-kaniko
           - name: container_image
             value: asksven/fake-startup
           - name: container_tag
