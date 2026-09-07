@@ -1,4 +1,4 @@
-FROM docker.io/asksven/nginx:v1.31.4
+FROM docker.io/asksven/nginx:v1.31.5
 
 EXPOSE 8080
 
